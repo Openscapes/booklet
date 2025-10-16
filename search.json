@@ -4,209 +4,329 @@
     "href": "index.html",
     "title": "Openscapes Reflections Booklet",
     "section": "",
-    "text": "Welcome\nOpenscapes Reflections is an open data science coaching program for researchers and those who support research. Reflections is a &lt;1 month program (1 hour/week) modeled from professional leadership coaching, skills increasingly core to the Openscapes approach. Running in May each year, Reflections is a light-weight way to reflect on your workflows and make goals going into summer.\nWe designed Reflections to be rewarding for people who haven’t been part of Openscapes initiatives so far, as well as returning folks who want some accountability and space to reflect on their workflows and plan how open data science practices can fuel institutional culture change. We wanted to create a space for us all to get a little less stuck in our daily workflows (folders full of files with names like “Report_with_figuresFINAL_v2.doc” anyone?) so we can redirect our energy to the part of our work that we care about, connected to our values for kinder science. If this sounds enticing to you, we hope you’ll join us.\nThis is our third year leading Reflections, and this year we are adding a 4th week to teach our GitHub Clinic for publishing & project management (designed for collaboration skills for absolute beginners and seasoned version control users alike). Why GitHub? GitHub is a powerful tool for collaboration in science, whether or not people interact with data and code. It has enabled shared “to do” lists and open documentation that have supported hundreds of projects in the Openscapes community, many of which start with this friendly introduction."
+    "text": "Welcome\nWe plan to open registration for the 2026 Reflections Program in spring 2026!\nPrevious dates: May 5-30, 2025; April 29 - May 17 2024; May 8 - May 26, 2023\nOpenscapes Reflections is an open data science coaching program for researchers and those who support research. Reflections is a &lt;1 month program (1 hour/week) modeled from professional leadership coaching, skills increasingly core to the Openscapes approach. Running in May each year, Reflections is a light-weight way to reflect on your workflows and make goals going into summer.\nWe designed Reflections to be rewarding for people who haven’t been part of Openscapes initiatives so far, as well as returning folks who want some accountability and space to reflect on their workflows and plan how open data science practices can fuel institutional culture change. We wanted to create a space for us all to get a little less stuck in our daily workflows (folders full of files with names like “Report_with_figuresFINAL_v2.doc” anyone?) so we can redirect our energy to the part of our work that we care about, connected to our values for kinder science. If this sounds enticing to you, we hope you’ll join us.\nThis is our third year leading Reflections, and this year we are adding a 4th week to teach our GitHub Clinic for publishing & project management (designed for collaboration skills for absolute beginners and seasoned version control users alike). Why GitHub? GitHub is a powerful tool for collaboration in science, whether or not people interact with data and code. It has enabled shared “to do” lists and open documentation that have supported hundreds of projects in the Openscapes community, many of which start with this friendly introduction.",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
     "objectID": "index.html#background",
     "href": "index.html#background",
     "title": "Openscapes Reflections Booklet",
     "section": "Background",
-    "text": "Background\nOver the last six years Openscapes has helped hundreds of people improve their work and life with kinder, open science. We know many like you have been looking for a lighter-weight way to get involved or continue building habits to support yourself and your colleagues. We’ve designed the Reflections Program to meet this need. We’ve specifically designed it for people who: \n\nhave been interested in Openscapes Champions (a 10-week mentorship program for science teams) but have not yet participated due to cost or booking availability\nhave participated in Openscapes initiatives and would like this opportunity for onboarding new team members, or want to revisit their work-in-progress themselves\nhave participated in Openscapes Pathways to Open Science and are interested in next steps for building more resilient workflows\nhave not yet been involved with Openscapes, and regardless of discipline, job title, career stage, and proximity to data and code, are feeling some amount of workflow friction, or are curious about open science and building community\n\nWe know that making space to talk about workflows is a catalyst for teams – Seaside Chats and Coworking are often cited as the most valuable parts of Openscapes when we check in with teams we’ve worked with in academia and government. Spaces to talk are where folks identify their needs and begin addressing them through individual skillbuilding and shared workflow redesign, whether or not they work with data or code. Making this space to reflect is an integral part of Openscapes Champions and we think it will be helpful to folks as a stand-alone program that can include far more people.\n\nLearn more via a recent publication co-authored by Openscapes mentors across organizations – including California Water Boards, NASA Earthdata, NOAA Fisheries, EPA, Pathways to Open Science, Fred Hutch Cancer Center: Shifting institutional culture to develop climate solutions with Open Science (Lowndes et al. 2024, Ecology and Evolution). From co-author Anna Holder, California EPA / Water Boards: “It’s a short read and quite uplifting and inspirational and provides some more insight and what we’re learning as we implement Openscapes across organizations.”\n\nWhat is a workflow? We broadly define workflows as the tools, habits, and practices that we use to complete, collaborate on, and share our work. Read more in Defining our workflows."
+    "text": "Background\nOver the last six years Openscapes has helped hundreds of people improve their work and life with kinder, open science. We know many like you have been looking for a lighter-weight way to get involved or continue building habits to support yourself and your colleagues. We’ve designed the Reflections Program to meet this need. We’ve specifically designed it for people who: \n\nhave been interested in Openscapes Champions (a 10-week mentorship program for science teams) but have not yet participated due to cost or booking availability\nhave participated in Openscapes initiatives and would like this opportunity for onboarding new team members, or want to revisit their work-in-progress themselves\nhave participated in Openscapes Pathways to Open Science and are interested in next steps for building more resilient workflows\nhave not yet been involved with Openscapes, and regardless of discipline, job title, career stage, and proximity to data and code, are feeling some amount of workflow friction, or are curious about open science and building community\n\nWe know that making space to talk about workflows is a catalyst for teams – Seaside Chats and Coworking are often cited as the most valuable parts of Openscapes when we check in with teams we’ve worked with in academia and government. Spaces to talk are where folks identify their needs and begin addressing them through individual skillbuilding and shared workflow redesign, whether or not they work with data or code. Making this space to reflect is an integral part of Openscapes Champions and we think it will be helpful to folks as a stand-alone program that can include far more people.\n\nLearn more via a recent publication co-authored by Openscapes mentors across organizations – including California Water Boards, NASA Earthdata, NOAA Fisheries, EPA, Pathways to Open Science, Fred Hutch Cancer Center: Shifting institutional culture to develop climate solutions with Open Science (Lowndes et al. 2024, Ecology and Evolution). From co-author Anna Holder, California EPA / Water Boards: “It’s a short read and quite uplifting and inspirational and provides some more insight and what we’re learning as we implement Openscapes across organizations.”\n\nWhat is a workflow? We broadly define workflows as the tools, habits, and practices that we use to complete, collaborate on, and share our work. Read more in Defining our workflows.",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
     "objectID": "index.html#program-details",
     "href": "index.html#program-details",
     "title": "Openscapes Reflections Booklet",
     "section": "Program Details",
-    "text": "Program Details\n\nReflections will run for 4 weeks, from May 5-30, 2025. Through weekly prompts and community huddles, you’ll have opportunities to reflect on your own time asynchronously or with others synchronously in a way we hope leaves you feeling intentional and empowered.\n\nTuesdays: Reflection prompts received via email\nThursdays, 12pm EDT (Optional): Community Huddle with the Openscapes team and other participants (1 hour in Weeks 1-3; 2 hours in Week 4 for our GitHub Clinic)\nFridays: Huddle recording available online for reflecting asynchronously\n\nEach week will have a specific focus. Here is how we hope you’ll feel after each week:\n\nReflect - I have reflected how I work and noticed what feels good and what feels stuck.\nImagine - I have seen more of what’s possible with open data science and how my peers work and can see myself incorporating this too.\nSet Goals - I am empowered by what’s possible and have a starting plan and community to weave this into my ongoing work, and I know I am not alone.\nGitHub for publishing and project management - I see how open tooling can accelerate my work and confidence to use it collaboratively.\n\nReflections is a self-paced program to improve your daily workflow, no matter where you are starting from. We’re hoping this is something that will be valuable for you year after year, both for reflecting yourself and onboarding your team."
+    "text": "Program Details\nPlease note: we will update this information in early 2026 for the Reflections Program in Spring 2026\nReflections will run for 4 weeks, from May 5-30, 2025. Through weekly prompts and community huddles, you’ll have opportunities to reflect on your own time asynchronously or with others synchronously in a way we hope leaves you feeling intentional and empowered.\n\nTuesdays: Reflection prompts received via email\nThursdays, 12pm EDT (Optional): Community Huddle with the Openscapes team and other participants (1 hour in Weeks 1-3; 2 hours in Week 4 for our GitHub Clinic)\nFridays: Huddle recording available online for reflecting asynchronously\n\nEach week will have a specific focus. Here is how we hope you’ll feel after each week:\n\nReflect - I have reflected how I work and noticed what feels good and what feels stuck.\nImagine - I have seen more of what’s possible with open data science and how my peers work and can see myself incorporating this too.\nSet Goals - I am empowered by what’s possible and have a starting plan and community to weave this into my ongoing work, and I know I am not alone.\nGitHub for publishing and project management - I see how open tooling can accelerate my work and confidence to use it collaboratively.\n\nReflections is a self-paced program to improve your daily workflow, no matter where you are starting from. We’re hoping this is something that will be valuable for you year after year, both for reflecting yourself and onboarding your team.",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
     "objectID": "index.html#registration",
     "href": "index.html#registration",
     "title": "Openscapes Reflections Booklet",
     "section": "Registration",
-    "text": "Registration\nThis program has a $95 value.  Please register through this short form. We intend to make this program available to anyone interested, with sponsorship available through the registration form.\nRegistration includes 3 weekly reflection prompts, 3 live Huddles (optional) and 1 GitHub Clinic (optional) with our team and the community via Zoom (we will send calendar invites). These calls will be recorded and uploaded online so that you’re able to watch them on your own time if you can’t attend live.\nAll reflection prompts are openly available through this Booklet. Yes, you can do the Reflections program for no cost from these open educational resources alone (as is true with all Openscapes resources!). We encourage you to do this alone (or with your colleagues) if this is right for you. By registering above you receive additional structure, accountability, and community. You also invest in open science resources through helping Openscapes build different funding avenues to sustain this work."
+    "text": "Registration\nThis program has a $95 value. Registration will open in Spring 2026. ). We intend to make this program available to anyone interested, with sponsorship available through the registration form.\nRegistration includes 3 weekly reflection prompts, 3 live Huddles (optional) and 1 GitHub Clinic (optional) with our team and the community via Zoom (we will send calendar invites). These calls will be recorded and uploaded online so that you’re able to watch them on your own time if you can’t attend live.\nAll reflection prompts are openly available through this Booklet. Yes, you can do the Reflections program for no cost from these open educational resources alone (as is true with all Openscapes resources!). We encourage you to do this alone (or with your colleagues) if this is right for you. By registering above you receive additional structure, accountability, and community. You also invest in open science resources through helping Openscapes build different funding avenues to sustain this work.",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
     "objectID": "index.html#what-to-expect",
     "href": "index.html#what-to-expect",
     "title": "Openscapes Reflections Booklet",
     "section": "What to expect",
-    "text": "What to expect\nNo judgment, just support and community! We know from experience it is intimidating to change how you work, and this process takes time and small steps. Through Reflections we will focus on this journey together.\nEach week you’ll reflect on the prompts in this booklet, and have the opportunity to join a Huddle to reflect in community with like-minded folks, ask your questions, and discuss your experiences. The Huddle kicks off with the Openscapes team sharing experiences that can you can reflect on and react to for your own work. This is how we all learn together, reimagine our work, and drive culture change.\nYou may be asking yourself what to “reflect” on during this period and where to start. More often than not, when prompted we can identify what we need, but we don’t give ourselves the space in our lives to do so. Further, the open data science landscape has completely changed how we can do and share our research, and few of us have had the opportunity to find where to learn the skills required to engage. The Reflections program is a space to ask, What works for me? Where am I stuck? What would improve my work? What will I do next? We’ll each answer these questions for ourselves together in a space where we each make a plan to improve how we work and support culture change more broadly.\n\nIs this for me?\nWe hope so! This program is for you if:\n\nyou’re sensing you could improve your daily life by rethinking parts of your workflows\nyou’re looking for accountability and space within limited time availabilty\nyou’re open to trying new things\n\nYou do not need any previous experience with data, code, or open science. We designed Reflections for people across career stages, disciplines, and areas of expertise.\nWe see open science as a movement rooted in creating a more intentional, collaborative, and kinder future for our planet and society. This movement is being built with folks just like yourself bringing these principles to your work in whichever way you do it. Wherever you are now is the right place; this program gives you that space and guidance to figure out where to start or take your next step. We’re excited to meet you and begin the conversations."
+    "text": "What to expect\nNo judgment, just support and community! We know from experience it is intimidating to change how you work, and this process takes time and small steps. Through Reflections we will focus on this journey together.\nEach week you’ll reflect on the prompts in this booklet, and have the opportunity to join a Huddle to reflect in community with like-minded folks, ask your questions, and discuss your experiences. The Huddle kicks off with the Openscapes team sharing experiences that can you can reflect on and react to for your own work. This is how we all learn together, reimagine our work, and drive culture change.\nYou may be asking yourself what to “reflect” on during this period and where to start. More often than not, when prompted we can identify what we need, but we don’t give ourselves the space in our lives to do so. Further, the open data science landscape has completely changed how we can do and share our research, and few of us have had the opportunity to find where to learn the skills required to engage. The Reflections program is a space to ask, What works for me? Where am I stuck? What would improve my work? What will I do next? We’ll each answer these questions for ourselves together in a space where we each make a plan to improve how we work and support culture change more broadly.\n\nIs this for me?\nWe hope so! This program is for you if:\n\nyou’re sensing you could improve your daily life by rethinking parts of your workflows\nyou’re looking for accountability and space within limited time availabilty\nyou’re open to trying new things\n\nYou do not need any previous experience with data, code, or open science. We designed Reflections for people across career stages, disciplines, and areas of expertise.\nWe see open science as a movement rooted in creating a more intentional, collaborative, and kinder future for our planet and society. This movement is being built with folks just like yourself bringing these principles to your work in whichever way you do it. Wherever you are now is the right place; this program gives you that space and guidance to figure out where to start or take your next step. We’re excited to meet you and begin the conversations.",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Openscapes Reflections Booklet",
     "section": "About",
-    "text": "About\n\nOpenscapes\nOpenscapes is an approach for doing better science in less time. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\nLearn about Openscapes initiatives that complement the Reflections Program.\n\n\nOur team\nJulie Lowndes and Ileana Fenwick are designing and leading the Reflections Program this year. Stefanie Butland will be tech hosting. We are super grateful to Erin Robinson for introducing us to coaching as a skill for open data science and having the initial idea for the Reflections program. We’re also grateful for many formative conversations with Liz Neeley.\n\n\n\nIleana Fenwick and Julie Lowndes at the 2022 RStudio conference\n\n\nHi! I’m Ileana, a core member of the Openscapes team. I learned about open data science as a first year PhD student and these tools have transformed how I do my work. Going from never hearing about open science before to implementing these strategies and tools is challenging! We don’t expect you to do it all in these next few weeks. This is a space to study your own habits and workflows so we can improve incrementally and help each other.\nHi! I’m Julie, a core member of the Openscapes team and founding director. Since I first felt empowered by the R coding community I’ve made it my career to welcome and support as many others as possible. In early PhD years I didn’t think I was a “computer person”, and I have been encouraged and built skills with many mentors and coaches along the way. I have learned how to experiment and incorporate the new things I learn into my daily work, and gained confidence with data, code, facilitation, and speaking up. I’m excited to have this time to reflect with you!\nPlease ask us your questions! We look forward to learning together with you on this journey as we iterate this program each year.\n\n\n\nThis Booklet\nThe Booklet is written as an open educational resource to reuse and remix. This open curriculum is improved iteratively and the most recent version is always available online. Each chapter in the Reflections Booklet introduces prompts to guide your reflections.\nAnd also, awesomely, it’s created with the same tools and practices we use in analyses: R/RStudio - R Markdown and Quarto - and GitHub.\n\n\nCitation\nAll material in the Openscapes Reflections Booklet is available under a CC-BY 4.0 licence.\nPlease cite this guide as:\nThe Openscapes Core Team, Lowndes & Fenwick (2023). Openscapes Reflections Booklet (v2023.04.0)."
+    "text": "About\n\nOpenscapes\nOpenscapes is an approach for doing better science in less time. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\nLearn about Openscapes initiatives that complement the Reflections Program.\n\n\nOur team\nJulie Lowndes and Ileana Fenwick are designing and leading the Reflections Program this year. Stefanie Butland will be tech hosting. We are super grateful to Erin Robinson for introducing us to coaching as a skill for open data science and having the initial idea for the Reflections program. We’re also grateful for many formative conversations with Liz Neeley.\n\n\n\nIleana Fenwick and Julie Lowndes at the 2022 RStudio conference\n\n\nHi! I’m Ileana, a core member of the Openscapes team. I learned about open data science as a first year PhD student and these tools have transformed how I do my work. Going from never hearing about open science before to implementing these strategies and tools is challenging! We don’t expect you to do it all in these next few weeks. This is a space to study your own habits and workflows so we can improve incrementally and help each other.\nHi! I’m Julie, a core member of the Openscapes team and founding director. Since I first felt empowered by the R coding community I’ve made it my career to welcome and support as many others as possible. In early PhD years I didn’t think I was a “computer person”, and I have been encouraged and built skills with many mentors and coaches along the way. I have learned how to experiment and incorporate the new things I learn into my daily work, and gained confidence with data, code, facilitation, and speaking up. I’m excited to have this time to reflect with you!\nPlease ask us your questions! We look forward to learning together with you on this journey as we iterate this program each year.\n\n\n\nThis Booklet\nThe Booklet is written as an open educational resource to reuse and remix. This open curriculum is improved iteratively and the most recent version is always available online. Each chapter in the Reflections Booklet introduces prompts to guide your reflections.\nAnd also, awesomely, it’s created with the same tools and practices we use in analyses: R/RStudio - R Markdown and Quarto - and GitHub.\n\n\nCitation\nAll material in the Openscapes Reflections Booklet is available under a CC-BY 4.0 licence.\nPlease cite this guide as:\nThe Openscapes Core Team, Lowndes & Fenwick (2023). Openscapes Reflections Booklet (v2023.04.0).",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
     "objectID": "workflows.html",
     "href": "workflows.html",
     "title": "Defining our workflows",
     "section": "",
-    "text": "We broadly define workflows as the tools, habits, and practices that we use to complete, collaborate on, and share our work. It can include how and when we like to send emails or the structure of documents we share with our coworkers. Our workflows will evolve with different projects, software, and collaborators, and defining it can be a process. The most important thing about your workflow is that it works for all involved!\nWeek 1 Huddle slides provide a welcome and share examples for our first week together. We will spend time reflecting on our workflows so that in future weeks we can map out incremental and impactful ways improve your workflow, no matter where you’re starting from.\nWeek 2 Huddle slides provide a few examples to help spot things other people do that could help your workflow.\nWeek 3 Huddle slides provide a few examples of actions you could consider taking this summer to align with your longer term goals of organization and teamwork (Future Us). This is about many small things, not one big thing."
+    "text": "We broadly define workflows as the tools, habits, and practices that we use to complete, collaborate on, and share our work. It can include how and when we like to send emails or the structure of documents we share with our coworkers. Our workflows will evolve with different projects, software, and collaborators, and defining it can be a process. The most important thing about your workflow is that it works for all involved!\nWeek 1 Huddle slides provide a welcome and share examples for our first week together. We will spend time reflecting on our workflows so that in future weeks we can map out incremental and impactful ways improve your workflow, no matter where you’re starting from.\nWeek 2 Huddle slides provide a few examples to help spot things other people do that could help your workflow.\nWeek 3 Huddle slides provide a few examples of actions you could consider taking this summer to align with your longer term goals of organization and teamwork (Future Us). This is about many small things, not one big thing.",
+    "crumbs": [
+      "Defining our workflows"
+    ]
   },
   {
-    "objectID": "how-to-use.html#download-as-pdf",
-    "href": "how-to-use.html#download-as-pdf",
+    "objectID": "how-to-use.html",
+    "href": "how-to-use.html",
     "title": "How to use this booklet",
-    "section": "Download as PDF",
-    "text": "Download as PDF\nTo download the booklet as PDF, click the PDF icon on the left navbar, just below the Openscapes logo.\nThen, you can either use a PDF viewer to fill it in digitally, or print it out to use a pencil or pen."
+    "section": "",
+    "text": "Download as PDF\nThe numbered chapters of this booklet are meant for you to reflect and write in each week. To make your own copy, you have a few options.\nTo download the booklet as PDF, click the PDF icon on the left navbar, just below the Openscapes logo.\nThen, you can either use a PDF viewer to fill it in digitally, or print it out to use a pencil or pen.",
+    "crumbs": [
+      "How to use this booklet"
+    ]
   },
   {
     "objectID": "how-to-use.html#fork-to-your-github-account",
     "href": "how-to-use.html#fork-to-your-github-account",
     "title": "How to use this booklet",
     "section": "Fork to your GitHub account",
-    "text": "Fork to your GitHub account\nWe’ve built this booklet collaboratively with Quarto and GitHub. This is a workflow that’s super powerful for research — that’s where we first learned it too. This booklet is a low-stakes way to practice the Quarto-GitHub workflow if that’s something you’re interested in.\nIn GitHub terminology, “forking” means making a copy that’s still connected to the original (so that you can send updates back and forth). To do this, follow the steps involved in our tutorial: Making shareable documents with Quarto. Specifically, first you’ll fork to your GitHub account. Then, you’ll be able to edit from the browser or follow the instructions to work locally."
+    "text": "Fork to your GitHub account\nWe’ve built this booklet collaboratively with Quarto and GitHub. This is a workflow that’s super powerful for research — that’s where we first learned it too. This booklet is a low-stakes way to practice the Quarto-GitHub workflow if that’s something you’re interested in.\nIn GitHub terminology, “forking” means making a copy that’s still connected to the original (so that you can send updates back and forth). To do this, follow the steps involved in our tutorial: Making shareable documents with Quarto. Specifically, first you’ll fork to your GitHub account. Then, you’ll be able to edit from the browser or follow the instructions to work locally.",
+    "crumbs": [
+      "How to use this booklet"
+    ]
+  },
+  {
+    "objectID": "reflect.html",
+    "href": "reflect.html",
+    "title": "1  Reflect",
+    "section": "",
+    "text": "1.1 What are things you know about yourself and how you work?\nOur purpose today is to notice – what works, what doesn’t work? We’ll think about your workflows and how you collaborate.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reflect</span>"
+    ]
   },
   {
     "objectID": "reflect.html#what-are-things-you-know-about-yourself-and-how-you-work",
     "href": "reflect.html#what-are-things-you-know-about-yourself-and-how-you-work",
     "title": "1  Reflect",
-    "section": "1.1 What are things you know about yourself and how you work?",
-    "text": "1.1 What are things you know about yourself and how you work?\n\n\n\n\n\n\n\nWhat are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces."
+    "section": "",
+    "text": "What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reflect</span>"
+    ]
   },
   {
     "objectID": "reflect.html#what-software-and-kinds-of-files-do-you-work-with-and-for-what-purposes",
     "href": "reflect.html#what-software-and-kinds-of-files-do-you-work-with-and-for-what-purposes",
     "title": "1  Reflect",
     "section": "1.2 What software and kinds of files do you work with, and for what purposes?",
-    "text": "1.2 What software and kinds of files do you work with, and for what purposes?\n\n\n\n\n\n\n\nThink across your different workflows. Where do you do your writing? How do you manage citations or versions? How do software and files connect together? If you analyze data or images, what do you use?"
+    "text": "1.2 What software and kinds of files do you work with, and for what purposes?\n\n\n\n\n\n\n\nThink across your different workflows. Where do you do your writing? How do you manage citations or versions? How do software and files connect together? If you analyze data or images, what do you use?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reflect</span>"
+    ]
   },
   {
     "objectID": "reflect.html#how-do-you-track-tasks-for-your-workflow",
     "href": "reflect.html#how-do-you-track-tasks-for-your-workflow",
     "title": "1  Reflect",
     "section": "1.3 How do you track tasks for your workflow?",
-    "text": "1.3 How do you track tasks for your workflow?\n\n\n\n\n\n\n\nYou can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? How do you find things weekly or come back to something after a month, a year?"
+    "text": "1.3 How do you track tasks for your workflow?\n\n\n\n\n\n\n\nYou can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? How do you find things weekly or come back to something after a month, a year?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reflect</span>"
+    ]
   },
   {
     "objectID": "reflect.html#how-do-you-collaborate-with-colleagues",
     "href": "reflect.html#how-do-you-collaborate-with-colleagues",
     "title": "1  Reflect",
     "section": "1.4 How do you collaborate with colleagues?",
-    "text": "1.4 How do you collaborate with colleagues?\n\n\n\n\n\n\n\nWho is included in your workflow? How do you share files and communicate? If you think “I work alone”, consider who you talk to, how do you give and receive feedback?"
+    "text": "1.4 How do you collaborate with colleagues?\n\n\n\n\n\n\n\nWho is included in your workflow? How do you share files and communicate? If you think “I work alone”, consider who you talk to, how do you give and receive feedback?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reflect</span>"
+    ]
   },
   {
     "objectID": "reflect.html#what-feels-good-about-your-workflow",
     "href": "reflect.html#what-feels-good-about-your-workflow",
     "title": "1  Reflect",
     "section": "1.5 What feels good about your workflow?",
-    "text": "1.5 What feels good about your workflow?\n\n\n\n\n\n\n\nThere are good things about your workflow. What feels good to you?"
+    "text": "1.5 What feels good about your workflow?\n\n\n\n\n\n\n\nThere are good things about your workflow. What feels good to you?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reflect</span>"
+    ]
   },
   {
     "objectID": "reflect.html#what-feels-clunky-about-your-workflow",
     "href": "reflect.html#what-feels-clunky-about-your-workflow",
     "title": "1  Reflect",
     "section": "1.6 What feels clunky about your workflow?",
-    "text": "1.6 What feels clunky about your workflow?\n\n\n\n\n\n\n\nAre there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)"
+    "text": "1.6 What feels clunky about your workflow?\n\n\n\n\n\n\n\nAre there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reflect</span>"
+    ]
   },
   {
     "objectID": "reflect.html#what-is-top-of-mind-for-you",
     "href": "reflect.html#what-is-top-of-mind-for-you",
     "title": "1  Reflect",
     "section": "1.7 What is top-of-mind for you?",
-    "text": "1.7 What is top-of-mind for you?\n\n\n\n\n\n\n\nWhat might be a focus for the next few weeks?"
+    "text": "1.7 What is top-of-mind for you?\n\n\n\n\n\n\n\nWhat might be a focus for the next few weeks?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reflect</span>"
+    ]
+  },
+  {
+    "objectID": "reimagine.html",
+    "href": "reimagine.html",
+    "title": "2  Reimagine",
+    "section": "",
+    "text": "2.1 What resonates for you from last week?\nOur purpose today is to spot things that could help your workflow. The ideas is to reuse what works (for you and others), and ease off what doesn’t work",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Remagine</span>"
+    ]
   },
   {
     "objectID": "reimagine.html#what-resonates-for-you-from-last-week",
     "href": "reimagine.html#what-resonates-for-you-from-last-week",
     "title": "2  Reimagine",
-    "section": "2.1 What resonates for you from last week?",
-    "text": "2.1 What resonates for you from last week?\n\n\n\n\n\n\n\nRevisit what was top-of-mind from last week. What else has emerged? What patterns, if any, are coming up for you?"
+    "section": "",
+    "text": "Revisit what was top-of-mind from last week. What else has emerged? What patterns, if any, are coming up for you?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Remagine</span>"
+    ]
   },
   {
     "objectID": "reimagine.html#where-within-your-workflow-seems-like-a-good-place-to-start-iterating",
     "href": "reimagine.html#where-within-your-workflow-seems-like-a-good-place-to-start-iterating",
     "title": "2  Reimagine",
     "section": "2.2 Where within your workflow seems like a good place to start iterating?",
-    "text": "2.2 Where within your workflow seems like a good place to start iterating?\n\n\n\n\n\n\n\nWhat stands out about that place? Why are you motivated to focus on this part of your workflow?"
+    "text": "2.2 Where within your workflow seems like a good place to start iterating?\n\n\n\n\n\n\n\nWhat stands out about that place? Why are you motivated to focus on this part of your workflow?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Remagine</span>"
+    ]
   },
   {
     "objectID": "reimagine.html#think-of-a-good-workflow-youve-seen.-what-felt-good-about-it",
     "href": "reimagine.html#think-of-a-good-workflow-youve-seen.-what-felt-good-about-it",
     "title": "2  Reimagine",
     "section": "2.3 Think of a good workflow you’ve seen. What felt good about it?",
-    "text": "2.3 Think of a good workflow you’ve seen. What felt good about it?\n\n\n\n\n\n\n\nFor example, what was it about how it was organized, how different people contributed, how it was communicated? Remember meetings are part of workflows too"
+    "text": "2.3 Think of a good workflow you’ve seen. What felt good about it?\n\n\n\n\n\n\n\nFor example, what was it about how it was organized, how different people contributed, how it was communicated? Remember meetings are part of workflows too",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Remagine</span>"
+    ]
   },
   {
     "objectID": "reimagine.html#what-have-you-seen-or-heard-about-that-has-you-curious",
     "href": "reimagine.html#what-have-you-seen-or-heard-about-that-has-you-curious",
     "title": "2  Reimagine",
     "section": "2.4 What have you seen or heard about that has you curious?",
-    "text": "2.4 What have you seen or heard about that has you curious?\n\n\n\n\n\n\n\nWhat are things you’d like to learn or reuse from what you’ve seen? Think from colleagues, talks, and examples online"
+    "text": "2.4 What have you seen or heard about that has you curious?\n\n\n\n\n\n\n\nWhat are things you’d like to learn or reuse from what you’ve seen? Think from colleagues, talks, and examples online",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Remagine</span>"
+    ]
   },
   {
     "objectID": "reimagine.html#what-are-some-of-your-values",
     "href": "reimagine.html#what-are-some-of-your-values",
     "title": "2  Reimagine",
     "section": "2.5 What are some of your values?",
-    "text": "2.5 What are some of your values?\n\n\n\n\n\n\n\nThink about something you enjoy doing. What qualities about yourself do you see coming through? What is important to you personally and professionally? How do you want to make people feel?"
+    "text": "2.5 What are some of your values?\n\n\n\n\n\n\n\nThink about something you enjoy doing. What qualities about yourself do you see coming through? What is important to you personally and professionally? How do you want to make people feel?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Remagine</span>"
+    ]
   },
   {
     "objectID": "reimagine.html#how-do-your-values-show-up-in-your-workflow-and-how-you-interact-with-colleagues",
     "href": "reimagine.html#how-do-your-values-show-up-in-your-workflow-and-how-you-interact-with-colleagues",
     "title": "2  Reimagine",
     "section": "2.6 How do your values show up in your workflow, and how you interact with colleagues?",
-    "text": "2.6 How do your values show up in your workflow, and how you interact with colleagues?\n\n\n\n\n\n\n\nHow do you show up in your daily life at work? For example, being on time, being organized, interacting with people."
+    "text": "2.6 How do your values show up in your workflow, and how you interact with colleagues?\n\n\n\n\n\n\n\nHow do you show up in your daily life at work? For example, being on time, being organized, interacting with people.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Remagine</span>"
+    ]
   },
   {
     "objectID": "reimagine.html#what-would-it-look-like-to-connect-your-values-more-with-your-workflow",
     "href": "reimagine.html#what-would-it-look-like-to-connect-your-values-more-with-your-workflow",
     "title": "2  Reimagine",
     "section": "2.7 What would it look like to connect your values more with your workflow?",
-    "text": "2.7 What would it look like to connect your values more with your workflow?\n\n\n\n\n\n\n\nThink about that place that seems like a good place to focus. What if you brought what you have seen and want to learn to that place, along with your values? You can draw this"
+    "text": "2.7 What would it look like to connect your values more with your workflow?\n\n\n\n\n\n\n\nThink about that place that seems like a good place to focus. What if you brought what you have seen and want to learn to that place, along with your values? You can draw this",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Remagine</span>"
+    ]
+  },
+  {
+    "objectID": "goals.html",
+    "href": "goals.html",
+    "title": "3  Goal-setting",
+    "section": "",
+    "text": "3.1 What would you like to revisit from your values and workflow last week?\nOur purpose today is to set some goals for yourself that you can act on this summer",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Goal-setting</span>"
+    ]
   },
   {
     "objectID": "goals.html#what-would-you-like-to-revisit-from-your-values-and-workflow-last-week",
     "href": "goals.html#what-would-you-like-to-revisit-from-your-values-and-workflow-last-week",
     "title": "3  Goal-setting",
-    "section": "3.1 What would you like to revisit from your values and workflow last week?",
-    "text": "3.1 What would you like to revisit from your values and workflow last week?\n\n\n\n\n\n\n\nWhat drives you? Who are your allies, colleagues, and mentors that give you energy and support?"
+    "section": "",
+    "text": "What drives you? Who are your allies, colleagues, and mentors that give you energy and support?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Goal-setting</span>"
+    ]
   },
   {
     "objectID": "goals.html#what-goals-are-emerging-for-your-workflow",
     "href": "goals.html#what-goals-are-emerging-for-your-workflow",
     "title": "3  Goal-setting",
     "section": "3.2 What goals are emerging for your workflow?",
-    "text": "3.2 What goals are emerging for your workflow?\n\n\n\n\n\n\n\nDream big. Why are you committed to these goals?"
+    "text": "3.2 What goals are emerging for your workflow?\n\n\n\n\n\n\n\nDream big. Why are you committed to these goals?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Goal-setting</span>"
+    ]
   },
   {
     "objectID": "goals.html#what-pieces-do-you-have-control-over-in-the-short-and-long-term",
     "href": "goals.html#what-pieces-do-you-have-control-over-in-the-short-and-long-term",
     "title": "3  Goal-setting",
     "section": "3.3 What pieces do you have control over in the short and long term?",
-    "text": "3.3 What pieces do you have control over in the short and long term?\n\n\n\n\n\n\n\nWhat are the possibilities? And what are the barriers? What questions do you need answered, what conversations do you need to have?"
+    "text": "3.3 What pieces do you have control over in the short and long term?\n\n\n\n\n\n\n\nWhat are the possibilities? And what are the barriers? What questions do you need answered, what conversations do you need to have?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Goal-setting</span>"
+    ]
   },
   {
     "objectID": "goals.html#what-actions-can-you-take-this-summer-in-service-of-these-bigger-goals",
     "href": "goals.html#what-actions-can-you-take-this-summer-in-service-of-these-bigger-goals",
     "title": "3  Goal-setting",
     "section": "3.4 What actions can you take this summer in service of these bigger goals?",
-    "text": "3.4 What actions can you take this summer in service of these bigger goals?\n\n\n\n\n\n\n\nWhat would you like to experiment with? Where is a place you could try something new? For example - if I feel behind every morning, what would it look like to not set meetings before 10am?"
+    "text": "3.4 What actions can you take this summer in service of these bigger goals?\n\n\n\n\n\n\n\nWhat would you like to experiment with? Where is a place you could try something new? For example - if I feel behind every morning, what would it look like to not set meetings before 10am?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Goal-setting</span>"
+    ]
   },
   {
     "objectID": "goals.html#what-would-success-look-like",
     "href": "goals.html#what-would-success-look-like",
     "title": "3  Goal-setting",
     "section": "3.5 What would success look like?",
-    "text": "3.5 What would success look like?\n\n\n\n\n\n\n\nWhat feedback would you need from yourself to know if your actions/ experiment is working or needs to be iterated? How can you give yourself grace?"
+    "text": "3.5 What would success look like?\n\n\n\n\n\n\n\nWhat feedback would you need from yourself to know if your actions/ experiment is working or needs to be iterated? How can you give yourself grace?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Goal-setting</span>"
+    ]
   },
   {
     "objectID": "goals.html#what-do-you-need-to-make-this-possible",
     "href": "goals.html#what-do-you-need-to-make-this-possible",
     "title": "3  Goal-setting",
     "section": "3.6 What do you need to make this possible?",
-    "text": "3.6 What do you need to make this possible?\n\n\n\n\n\n\n\nWhat support or accountability could help you? For example, journaling or sharing progress with a colleague for a set period of time"
+    "text": "3.6 What do you need to make this possible?\n\n\n\n\n\n\n\nWhat support or accountability could help you? For example, journaling or sharing progress with a colleague for a set period of time",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Goal-setting</span>"
+    ]
   },
   {
     "objectID": "goals.html#whats-something-youre-excited-about-that-you-could-share-with-others",
     "href": "goals.html#whats-something-youre-excited-about-that-you-could-share-with-others",
     "title": "3  Goal-setting",
     "section": "3.7 What’s something you’re excited about that you could share with others?",
-    "text": "3.7 What’s something you’re excited about that you could share with others?"
+    "text": "3.7 What’s something you’re excited about that you could share with others?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Goal-setting</span>"
+    ]
   }
 ]
