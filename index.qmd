@@ -1,16 +1,15 @@
+<!---
 [**Registration is open for the 2025 Reflections Program**](https://forms.gle/aq9vPiyHSoVjfY9t9)**!**
 
 **Dates: May 5-30, 2025** (1-2 hour/week for 4 weeks)
 
 This year we are adding a 4th week to teach our GitHub Clinic for publishing & project management (designed for collaboration skills for absolute beginners and seasoned version control users alike). Please join us!
-
-```{=html}
-<!---
-**Registration will open for the 2025 Reflections Program in early 2025!**
-
-*Previous dates: April 29 - May 17 2024, May 8 - May 26, 2023*
 --->
-```
+
+**We plan to open registration for the 2026 Reflections Program in spring 2026!**
+
+*Previous dates: May 5-30, 2025; April 29 - May 17 2024; May 8 - May 26, 2023*
+
 
 # Welcome {.unnumbered}
 
@@ -42,7 +41,7 @@ We know that **making space to talk about workflows** is a catalyst for teams --
 
 ## Program Details
 
-<!---***Please note: we will update this information in early 2024 for the Reflections Program in Spring 2024***--->
+***Please note: we will update this information in early 2026 for the Reflections Program in Spring 2026***
 
 Reflections will run for 4 weeks, from **May 5-30, 2025**. Through weekly prompts and community huddles, you'll have opportunities to reflect on your own time asynchronously or with others synchronously in a way we hope leaves you feeling intentional and empowered.
 
@@ -64,7 +63,7 @@ Reflections is a self-paced program to improve your daily workflow, no matter wh
 
 ## Registration
 
-This program has a \$95 value. <!---Registration will open in March 2024 ---> Please [register through this short form](https://forms.gle/aq9vPiyHSoVjfY9t9). We intend to make this program available to anyone interested, with sponsorship available through the registration form.
+This program has a \$95 value. Registration will open in Spring 2026. <!--- Please [register through this short form](https://forms.gle/aq9vPiyHSoVjfY9t9 --->). We intend to make this program available to anyone interested, with sponsorship available through the registration form.
 
 Registration includes 3 weekly reflection prompts, 3 live Huddles (optional) and 1 GitHub Clinic (optional) with our team and the community via Zoom (we will send calendar invites). These calls will be recorded and uploaded online so that you're able to watch them on your own time if you can't attend live.
 
